@@ -1,6 +1,7 @@
-package com.springboot.demoMongoDB;
+package com.springboot.demoMongoDB.controller;
 
-import lombok.Getter;
+import com.springboot.demoMongoDB.repository.CustomerRepository;
+import com.springboot.demoMongoDB.model.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

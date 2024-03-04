@@ -1,4 +1,4 @@
-package com.springboot.demoMongoDB;
+package com.springboot.demoMongoDB.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
